@@ -10,7 +10,7 @@ programa {
       escreva("O número é decimal\n")
     }
     se(numeroR < 0){
-      escreva("O número é negativon\n")
+      escreva("O número é negativo\n")
     } senao {
       escreva("O número é positivo\n")
     }
