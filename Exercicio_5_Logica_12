@@ -2,7 +2,7 @@ programa {
   funcao inicio() {
     inteiro valor 
     inteiro unidade, dezena, centena
-    escreva("escolha um numero de 3 algarismos")
+    escreva("escolha um numero de 3 algarismos: ")
     leia(valor)
 
     centena = valor / 100
