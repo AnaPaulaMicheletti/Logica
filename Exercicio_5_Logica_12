@@ -9,7 +9,6 @@ programa {
 
     escreva(unidade, dezena, centena) 
 
-    // esta dando errado em algo q nao consegui identificar ainda
-
+    
   }
 }
